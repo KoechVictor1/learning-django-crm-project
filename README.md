@@ -1,11 +1,4 @@
-# learning-django-crm-project
-KoechVictor1: Help create a description for my new github repository for this project.
-
-Workspace: Collecting workspace information
-
-Sure! Here is a description you can use for your new GitHub repository:
-
----
+# learning-django-crm-project.
 
 # Project Name
 
